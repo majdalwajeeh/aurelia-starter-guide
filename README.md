@@ -32,10 +32,11 @@ As stated in the introduction, you will be using the next-generation of web tech
 
 #### jspm/SystemJS
 Modern package manager and module loader for using modules of any format.
-+ [jspm.io](http://jspm.io/)
+##### [jspm.io](http://jspm.io/)
   + [jspm Getting Started documentation](https://github.com/jspm/jspm-cli/wiki/Getting-Started)
   + [Simplifying the ES6 workflow with jspm](http://www.joezimjs.com/javascript/simplifying-the-es6-workflow-with-jspm/)
-+ [SystemJS](https://github.com/systemjs/systemjs)
+  
+##### [SystemJS](https://github.com/systemjs/systemjs)
   + [ES6 Modules with System.js](http://blog.mebooks.co.nz/es6-modules-with-system-js/)
 
 #### Gulp
@@ -49,13 +50,16 @@ The best place to get started using Aurelia is [the official Aurelia Get Started
 ### Resources/Ecosystem
 One of the best things about the Aurelia community is that it is incredibly active despite how young the framework is. You should have no problem getting a timely answer to any question you might have if you use these resources. 
 
-+ [Aurelia on Github](https://github.com/aurelia)
-  + The Aurelia framework itself is fairly lightweight, with most functionality coming from plugins that you can use or not use as you wish. You'll have noticed this if you went through the official Get Started guide and saw the massive `package.json` file.
+##### [Aurelia on Github](https://github.com/aurelia)
+The Aurelia framework itself is fairly lightweight, with most functionality coming from plugins that you can use or not use as you wish. You'll have noticed this if you went through the official Get Started guide and saw the massive `package.json` file.
 
-+ [Aurelia Gitter](https://gitter.im/Aurelia/Discuss)
-  + The Aurelia Gitter is by far the most active Gitter channel I've seen. Everyone from the creator to the core developers to beginners are there all day talking about the state of the framework and answering any questions. Every time I've gone on there's been at least one core developer there helping people out. Since Aurelia is such a young framework, it has no where near the external resources currently as other frameworks like Angular 1.x or Ember. Because of this, this Gitter channel will probably be the best place to seek answers to any questions you might have. 
+##### [Aurelia Gitter](https://gitter.im/Aurelia/Discuss)
+The Aurelia Gitter is by far the most active Gitter channel I've seen. Everyone from the creator to the core developers to beginners are there all day talking about the state of the framework and answering any questions. Every time I've gone on there's been at least one core developer there helping people out. Since Aurelia is such a young framework, it has no where near the external resources currently as other frameworks like Angular 1.x or Ember. Because of this, this Gitter channel will probably be the best place to seek answers to any questions you might have. 
 
-+ [Aurelia Blog](http://blog.durandal.io/)
-  + Blog posts from the Aurelia developers.
+##### [Official Aurelia Documentation](http://aurelia.io/docs.html)
+What documentation is there is very good, but there isn't too much of it currently.
+
+##### [Aurelia Blog](http://blog.durandal.io/)
+Blog posts from the Aurelia developers.
 
 Pull requests are very much welcome.
